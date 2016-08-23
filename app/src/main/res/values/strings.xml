@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Speech Me</string>
+    <string name="title_activity_maps">Gestures</string>
+    <string name="title_activity_speech">Speech</string>
+    <string name="title_activity_play_media">PlayMedia</string>
+    <string name="title_activity_gesture">Gesture</string>
+    <string name="hello">Hello</string>
+    <string name="single_tap">single_tap!</string>
+    <string name="double_tap">double_tap!</string>
+    <string name="double_tap_event">double_tap_event!</string>
+    <string name="on_down">on_down!</string>
+    <string name="screen_pressed">screen_pressed!</string>
+    <string name="single_tap_up">single_tap_up!</string>
+    <string name="scroll">scroll!</string>
+    <string name="long_press">long_press!</string>
+    <string name="flinging">flinging!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="btn_start"> Start </string>
+    <string name="btn_stop"> Stop </string>
+    <string name="title_activity_alarm">AlarmActivity</string>
+</resources>
